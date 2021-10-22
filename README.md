@@ -1,2 +1,2 @@
-# starter-project-css
-A starter project for css learning purpose 
+# html-css-starter-project
+Basic html css template 
