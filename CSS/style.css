@@ -148,3 +148,46 @@ h1 {
     animation: right 2s ease forwards;
     animation-delay: 0.3s;
 }
+
+footer {
+    position: fixed;
+    bottom: 0.5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer a {
+    color: var(--sec-c);
+    
+}
+.copy {
+    color: var(--prim-c);
+    padding-left: 2rem;
+}
+
+.social {
+    padding-right: 2rem;
+}
+
+.social a {
+    cursor: pointer;
+}
+
+.social a:first-child:hover {
+    color: #cc0068;
+}
+
+.social a:nth-child(2):hover {
+    color: #39579b;
+}
+.social a:nth-child(2):hover {
+    color: #39579b;
+}
+.social a:nth-child(3):hover {
+    color: #1da1f2;
+}
+.social a:last-child:hover {
+    color: #f80000;
+}
